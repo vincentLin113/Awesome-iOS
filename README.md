@@ -112,6 +112,7 @@ iOS開發中常使用的套件整理
 ### Transition
 * [SwipeRightToPopController](https://github.com/rishi420/SwipeRightToPopController) - When user drags right anywhere pop viewController
 * [PanModal](https://github.com/slackhq/PanModal) - PanModal is an elegant and highly customizable presentation API for constructing bottom sheet modals on iOS.
+* [Hero](https://github.com/HeroTransitions/Hero) - Elegant transition library for iOS & tvOS 
 
 ### Image
 * [Swifty360Player](https://github.com/abdullahselek/Swifty360Player) - iOS 360-degree video player streaming from an AVPlayer.
