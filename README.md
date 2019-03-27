@@ -144,3 +144,4 @@ iOS開發中常使用的套件整理
 * [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Convenient logging during development & release in Swift 2, 3 & 4
 * [ProvisionQL](https://github.com/ealeksandrov/ProvisionQL) - Quick Look plugin for apps and provisioning profile files
 * [FLEX](https://github.com/Flipboard/FLEX) - An in-app debugging and exploration tool for iOS
+* [Lepton](https://github.com/hackjutsu/Lepton) - 💻 Democratizing Snippet Management (macOS/Win/Linux) http://hackjutsu.com/Lepton
