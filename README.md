@@ -18,6 +18,7 @@ iOS開發中常使用的套件整理
 - [Syntax](#syntax)
 - [Cache](#cache)
 - [GestureUI](#gestureui)
+- [String](#string)
 - [UI](#ui)
   - [Alert](#alert)
   - [GUI](#gui)
@@ -88,6 +89,9 @@ iOS開發中常使用的套件整理
 ## GestureUI
 * [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS
 
+## String
+* [Sweep](https://github.com/JohnSundell/Sweep) - Fast and powerful Swift string scanning made simple
+
 ## UI 🖥
 ### Alert
 * [SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - SwiftEntryKit is a banner presenter library for iOS. It can be used to easily display pop-ups and notification-like views within your iOS apps.
@@ -145,3 +149,4 @@ iOS開發中常使用的套件整理
 * [ProvisionQL](https://github.com/ealeksandrov/ProvisionQL) - Quick Look plugin for apps and provisioning profile files
 * [FLEX](https://github.com/Flipboard/FLEX) - An in-app debugging and exploration tool for iOS
 * [Lepton](https://github.com/hackjutsu/Lepton) - 💻 Democratizing Snippet Management (macOS/Win/Linux) http://hackjutsu.com/Lepton
+* [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
